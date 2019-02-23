@@ -13,7 +13,8 @@ var database=[
 	},
 ];
  const obj={
- 	name: "Noorain"
+ 	name: "Noorain",
+ 	class: "Btech",
  }
 var newsfeed=[
 	{
