@@ -12,7 +12,9 @@ var database=[
 	password: "haha",
 	},
 ];
-
+ const obj={
+ 	name: "Noorain"
+ }
 var newsfeed=[
 	{
 		username: "ooda",
