@@ -1,0 +1,13 @@
+h1{
+	background-color: blue;
+	color: rgb(255,45,56);
+}
+form{
+	border-color: rgb(65,54,88);
+	border-style: dashed;
+	line-height: 26px;
+	font-style: italic;
+	font-weight: bold;
+	font-size: 100%;
+	font-family: 'Felipa', cursive;
+}
